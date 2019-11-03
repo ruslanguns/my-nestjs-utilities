@@ -1,6 +1,6 @@
 {
   "name": "@ruslanguns/my-nestjs-utilities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My own curated NestJS Utilities",
   "author": "Ruslan González <ruslanguns@gmail.com>",
   "license": "MIT",
