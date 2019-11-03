@@ -1,4 +1,3 @@
-// export public api from here
-// for example:
-// export * from './decorators';
-export * from './test';
+
+export * from './nest-utilities.module';
+export * from './nest-utilities-provider';
